@@ -1,0 +1,33 @@
+Semantica
+<section> representa uma seção generica
+<header> cabeçalho
+<article> conteúdo relevante
+<aside> conteudo principal
+<footer> pode ser o rodapé ou de um article ou section
+<h1>-<h6> Titulo, subtitulo e assim por diante "UM H1 POR PÁGINA"
+
+
+<p>Conteúdo do Artigo</p>
+<a>Link</a>
+ 
+
+<a href="link">link</a>
+<a href="mailto:email">email</a>
+
+a target="_blank">link</a>
+
+
+Colocar Imagens
+
+<img src="img/avatar.jpg">
+
+<img alt="Foto de Lucas"> (Mostra descrição)
+
+
+Listas
+
+<ul> ordem não é importante
+
+<ol> ordem importante
+
+<li> item da lista

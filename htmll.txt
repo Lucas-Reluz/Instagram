@@ -1,0 +1,14 @@
+CSS3
+
+
+Seletores são elementos HTML
+a, p, h1, h3 {
+color: blue;
+font size: 14px;
+    I
+Declarações
+
+
+classe -> . 
+
+ID -> # só pode ser usado uma vez na página

@@ -1,0 +1,20 @@
+Elemento HTML
+
+
+ABRIR A TAG
+
+<h1 class="titulo">Titulo</h1 ----> Fechando a tag
+
+
+
+Estrutura básica
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta>
+<title></title>
+</head>
+<body>
+</body>
+</html>
